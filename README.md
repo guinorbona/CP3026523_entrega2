@@ -26,6 +26,7 @@ Abra dois terminais e rode cada serviço separadamente:
 # Terminal — User Service (porta 8081)
 cd user-service
 mvn spring-boot:run
+```
 
 ## Endpoints — User Service
 
